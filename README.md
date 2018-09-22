@@ -1,1 +1,1 @@
-# mhmods-wa-update
+{'ver1': '1'، 'ver2': '5'}
